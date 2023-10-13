@@ -6,7 +6,7 @@
 3. Strong tag : <strong> </strong>
 4. Italic font tag : <i> </i>
 5. Emphasize tag: <em></em>
-6. Heading tag : <h1></h1> to <h6></h6>
+6. Heading tag : <h1></h1> TO <h6></h6>
 7. Small tag : <small></small>
 8. Span tag: <span></span>
 9. Div tag: <div></div>
